@@ -1,0 +1,8 @@
+{
+  "name": "react-starter-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aliakbarlive/react-starter-kit.git",
+  "author": "'aliakbarlive' <'786akbara@gmail.com'>",
+  "license": "MIT"
+}
